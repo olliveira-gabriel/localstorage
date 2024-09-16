@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+
+}
+.card-principal{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-cadastro{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-self: center;
+    padding: 5%;
+    border: 1px solid#000;
+}
+h1{
+    margin-bottom: 15px;
+}
+input {
+    width: 15vw;
+    height: 3vh;
+    margin-bottom: 15px;
+}
+button{
+
+    width: 15.5vw;
+    height: 6vh;
+} 
+label{
+    margin-bottom: 10px;
+}
+
